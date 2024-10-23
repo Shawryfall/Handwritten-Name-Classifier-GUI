@@ -37,7 +37,7 @@ cd <repository-directory>
 
 ### 2. Create a Virtual Environment
 
-Inside the cloned repository, create a virtual environment using the following command:
+Inside your repository, create a virtual environment using the following command:
 
 ```bash
 python -m venv venv
