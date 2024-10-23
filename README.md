@@ -62,7 +62,7 @@ pip install -r requirements.txt
 <h2>👨‍💻 Steps to Run the Project</h2>
 
 <ol>
-  <li><b>Dataset Generation:</b> If you wish to expand the dataset,  you will need to your own open ai API key to run any of the dataset_generator scripts, though it's unnecessary as the current dataset is adequate.</li>
+  <li><b>Dataset Generation:</b> If you wish to expand the dataset,  you will need to add your own open ai API key to run any of the dataset_generator scripts, though it's unnecessary as the current dataset is adequate.</li>
   <li><b>Model Training:</b> Run <b>name_classifier2.py</b> to train the model. Delete the <b>output2</b> folder to start fresh if needed.</li>
   <li><b>GUI Testing:</b> Run <b>name_gui.py</b> to test the classification via the letter notification system. The results will be logged automatically.</li>
 </ol>
