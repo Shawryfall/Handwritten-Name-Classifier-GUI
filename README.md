@@ -23,6 +23,42 @@
   </li>
 </ul>
 
+<h2>Installation</h2> 
+
+To set up and run this project on your local machine, follow the steps below:
+
+### 1. Clone the Repository
+
+Copy the repository to a convenient location on your computer:
+
+```bash
+git clone <repository-url>
+cd <repository-directory>
+```
+
+### 2. Create a Virtual Environment
+
+Inside the cloned repository, create a virtual environment using the following command:
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+Activate the virtual environment using:
+
+  ```bash
+  .\venv\Scripts\activate
+  ```
+
+### 4. Install Dependencies
+
+After activating the virtual environment, install the necessary dependencies from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
 <h2>👨‍💻 Steps to Run the Project</h2>
 
 <ol>
