@@ -29,10 +29,9 @@ To set up and run this project on your local machine, follow the steps below:
 
 ### 1. Clone the Repository
 
-Copy the repository to a convenient location on your computer:
+Copy the repository to a convenient location on your computer, then access the repository via the terminal:
 
 ```bash
-git clone <repository-url>
 cd <repository-directory>
 ```
 
@@ -47,7 +46,10 @@ python -m venv venv
 ### 3. Activate the Virtual Environment
 
 Activate the virtual environment using:
-
+  ```bash
+  \venv\Scripts\activate
+  ```
+Or
   ```bash
   .\venv\Scripts\activate
   ```
