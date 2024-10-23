@@ -76,6 +76,8 @@ pip install -r requirements.txt
   <li>Researchers can expand on this model to classify additional names or develop similar systems for other types of handwritten text recognition.</li>
 </ul>
 
-<h2>🤳 Connect with me:</h2>
+## 🔗 Connect
 
-<a href="https://linkedin.com/in/yourprofile"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/patrick-shaw-b57700278/)
+
+
