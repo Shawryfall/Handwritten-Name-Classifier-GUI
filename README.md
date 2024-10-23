@@ -6,7 +6,7 @@
 
 <ul>
   <li><b>dataset_generator.py</b>, <b>dataset_generator2.py</b>, and <b>dataset_generator3.py</b>: <br/>
-    These scripts generate images for each class of names: Emily, Michael, Sofia, and Jacob. The generated images vary in handwriting style, background, and visual artifacts such as smudges and ink blots. However, the dataset is already sufficient, so running them is optional. If it does not run credit will have run out linked to the API key.
+    These scripts generate images for each class of names: Emily, Michael, Sofia, and Jacob. The generated images vary in handwriting style, background, and visual artifacts such as smudges and ink blots. These will not run as I have removed the open ai API key for obvious security reasons. however, the dataset is already sufficient.
     <ul>
       <li><b>dataset_generator.py:</b> Generates 192 images each run, including potential misspellings and other variations.</li>
       <li><b>dataset_generator2.py:</b> Generates 144 images per run, but without any misspellings.</li>
@@ -26,7 +26,7 @@
 <h2>👨‍💻 Steps to Run the Project</h2>
 
 <ol>
-  <li><b>Dataset Generation:</b> If you wish to expand the dataset, run any of the dataset_generator scripts, though it's unnecessary as the current dataset is adequate.</li>
+  <li><b>Dataset Generation:</b> If you wish to expand the dataset,  you will need to your own open ai API key to run any of the dataset_generator scripts, though it's unnecessary as the current dataset is adequate.</li>
   <li><b>Model Training:</b> Run <b>name_classifier2.py</b> to train the model. Delete the <b>output2</b> folder to start fresh if needed.</li>
   <li><b>GUI Testing:</b> Run <b>name_gui.py</b> to test the classification via the letter notification system. The results will be logged automatically.</li>
 </ol>
